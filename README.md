@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Hina Kanwal<br><br>🤖 I build practical, end-to-end machine learning projects — not just <br>notebooks, but deployed, working applications<br>📊 My focus: turning raw data into honest, business-relevant insights <br>across regression, classification, and clustering problems<br>🎯 Featured work: software effort estimation, sports outcome prediction, <br>fraud detection, and customer segmentation<br>🌱 Currently sharpening my skills through learning  AI from different clouds's 2026 program<br>💬 Ask me about: scikit-learn, XGBoost, Streamlit deployment, or honest <br>model evaluation<br>📫 m.shaheer7u@gmail.com
 
 
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mshaheer7u-cloud&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mshaheer7u-cloud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mshaheer7u-cloud&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
